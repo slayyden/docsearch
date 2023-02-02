@@ -1,0 +1,10 @@
+     148   10562   65578 written_2/non-fiction/OUP/Kauffman/ch1.txt
+     132   10345   64908 written_2/non-fiction/OUP/Kauffman/ch10.txt
+     144   13373   80544 written_2/non-fiction/OUP/Kauffman/ch3.txt
+     125   12136   74448 written_2/non-fiction/OUP/Kauffman/ch4.txt
+      62    4446   27196 written_2/non-fiction/OUP/Kauffman/ch5.txt
+     124    9999   61513 written_2/non-fiction/OUP/Kauffman/ch6.txt
+     101    8081   50095 written_2/non-fiction/OUP/Kauffman/ch7.txt
+     236   16905   99145 written_2/non-fiction/OUP/Kauffman/ch8.txt
+     178   14165   86220 written_2/non-fiction/OUP/Kauffman/ch9.txt
+    1250  100012  609647 total
